@@ -1,0 +1,4 @@
+Temp/ScriptUpdater/2120464366\2038452059_SunShafts.cs => Assets/Dinner table/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
+Temp/ScriptUpdater/2120464366\1051995685_Bloom.cs => Assets/Dinner table/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs
+Temp/ScriptUpdater/2120464366\4468053_DepthOfField.cs => Assets/Dinner table/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
+Temp/ScriptUpdater/2120464366\866855777_BloomAndFlares.cs => Assets/Dinner table/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
